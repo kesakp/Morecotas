@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Morecotas</string>
+    <string name="Hola">¡Hola Mundo!</string>
+    <string name="toolbarEjemplo">Ejemplo de toolbar</string>
+    <string name="radiobuttonEjemplo">Ejemplo de RadioButton</string>
+    <string name="switchEjemplo">Ejemplo de Switch</string>
+    <string name="checkboxEjemplo">Ejemplo de CheckBox</string>
+</resources>
